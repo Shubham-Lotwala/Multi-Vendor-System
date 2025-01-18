@@ -42,6 +42,11 @@ Create a .env file in the project root to store environment variables like the S
 - **EMAIL_HOST_USER=your-email@example.com**
 - **EMAIL_HOST_PASSWORD=your-email-password**
 
+
+# IMPORTANT NOTE:
+
+**I have attached the .env.sample file in the root folder of the project you can use that to create your own .env file**
+
 ### Home Page
 
 ![Home Pages1](https://github.com/Shubh556/Multi-Vendor-System/blob/main/Images/Home%20page.png?raw=true)
